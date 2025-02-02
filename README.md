@@ -1,4 +1,4 @@
-# Weather Data Analysis and Forecasting in India (1901-2017)
+# Data Analysis and Forecasting of Indian Weather (1901-2017)
 
 This project analyzes historical weather data in India from 1901 to 2017 and forecasts temperatures for the year 2018 using a Decision Tree Regressor. The project includes data preprocessing, visualization, machine learning modeling, and forecasting.
 
